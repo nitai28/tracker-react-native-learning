@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddd50c16-9ebf-4d3b-9d02-53fe275a913b" name="Default Changelist" comment="" />
+    <list default="true" id="ddd50c16-9ebf-4d3b-9d02-53fe275a913b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracks/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tracks/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracks/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tracks/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracks/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tracks/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracks/src/api/tracker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tracks/src/api/tracker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracks/src/context/AuthContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tracks/src/context/AuthContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracks/src/screens/AccountScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tracks/src/screens/AccountScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracks/src/screens/SigninScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tracks/src/screens/SigninScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracks/src/screens/SignupScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tracks/src/screens/SignupScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracks/src/screens/TrackCreateScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tracks/src/screens/TrackCreateScreen.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,8 +23,13 @@
   <component name="FavoritesManager">
     <favorites_list name="track-server" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1RHrKzh6GgCIERZpep9BB8rK33G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -70,10 +87,22 @@
       <updated>1569334802921</updated>
       <workItem from="1569334805548" duration="2436000" />
       <workItem from="1569397949441" duration="1694000" />
+      <workItem from="1569506015817" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="c0bdaf36-0156-4efc-9c37-0d92c334d02a" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/tracks/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/track-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/track-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracks/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/tracks/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracks/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tracks/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracks/src/api/tracker.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracks/src/api/tracker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracks/src/context/AuthContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracks/src/context/AuthContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracks/src/screens/AccountScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracks/src/screens/AccountScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracks/src/screens/SigninScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracks/src/screens/SigninScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracks/src/screens/SignupScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracks/src/screens/SignupScreen.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +35,16 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nitai\Desktop\Tracker project\tracks\src\components" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,6 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1569413639122</updated>
       <workItem from="1569413642666" duration="6239000" />
+      <workItem from="1569478560625" duration="14497000" />
+      <workItem from="1569505995860" duration="3318000" />
     </task>
     <servers />
   </component>
@@ -81,7 +99,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
